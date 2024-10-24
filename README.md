@@ -46,17 +46,17 @@ The data used in this project is from [Kaggle](https://www.kaggle.com/datasets/w
 - Death event: if the patient died during the follow-up period (boolean)
 
 **Definitions**:
-Serum Sodium:  If sodium levels drop too low, it can indicate that the heart is not working well enough to manage fluid balance.
+- Serum Sodium:  If sodium levels drop too low, it can indicate that the heart is not working well enough to manage fluid balance.
 
-Creatinine Phosphokinase: CPK levels rise when there is damage to the muscles, including the heart. In heart failure, elevated CPK levels can indicate that the heart muscle is under stress or damaged
+- Creatinine Phosphokinase: CPK levels rise when there is damage to the muscles, including the heart. In heart failure, elevated CPK levels can indicate that the heart muscle is under stress or damaged
 
-Ejection fraction: Ejection fraction measures how well your heart pumps blood. In heart failure, a lower EF means the heart is pumping less blood with each beat
+- Ejection fraction: Ejection fraction measures how well your heart pumps blood. In heart failure, a lower EF means the heart is pumping less blood with each beat
 
-Serum Creatinine: Serum creatinine is a marker of kidney function. In heart failure, high serum creatinine levels can indicate that the kidneys are struggling due to decreased blood flow from the heart.
+- Serum Creatinine: Serum creatinine is a marker of kidney function. In heart failure, high serum creatinine levels can indicate that the kidneys are struggling due to decreased blood flow from the heart.
 
-Increased Platelets: Sometimes, the body produces more platelets as a response to inflammation or stress related to heart failure.
+- Increased Platelets: Sometimes, the body produces more platelets as a response to inflammation or stress related to heart failure.
   
-Decreased Platelets: In other cases, especially with severe heart failure, the platelet count might drop due to various factors like liver dysfunction or bone marrow problems.**
+- Decreased Platelets: In other cases, especially with severe heart failure, the platelet count might drop due to various factors like liver dysfunction or bone marrow problems.**
 ## Results and evaluation
 
 **Q1: Does the risk of dying increase with different CVD’s?**
