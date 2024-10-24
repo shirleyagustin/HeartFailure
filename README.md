@@ -2,7 +2,7 @@
 
 # Project Overview
 
-According to the [CDC](https://www.cdc.gov/heart-disease/data-research/facts-stats/index.html) heart disease is the leading cause of death for men, women, and people of most racial and ethnic groups$[^1]$. 
+According to the [CDC](https://www.cdc.gov/heart-disease/data-research/facts-stats/index.html) heart disease is the leading cause of death for men, women, and people of most racial and ethnic groups. 
  
 This project focuses on answering the following questions:
 
