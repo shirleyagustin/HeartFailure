@@ -56,7 +56,7 @@ The data used in this project is from [Kaggle](https://www.kaggle.com/datasets/w
 
 - Increased Platelets: Sometimes, the body produces more platelets as a response to inflammation or stress related to heart failure.
   
-- Decreased Platelets: In other cases, especially with severe heart failure, the platelet count might drop due to various factors like liver dysfunction or bone marrow problems.**
+- Decreased Platelets: In other cases, especially with severe heart failure, the platelet count might drop due to various factors like liver dysfunction or bone marrow problems.
 ## Results and evaluation
 
 **Q1: Does the risk of dying increase with different CVD’s?**
